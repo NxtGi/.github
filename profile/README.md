@@ -101,5 +101,5 @@ Official Website: https://nxtgi.com
 GitHub: https://github.com/nxtgi
 
 
-#### Building digital infrastructure for a better tomorrow.
+Building digital infrastructure for a better tomorrow.
 
