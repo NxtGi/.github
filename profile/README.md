@@ -23,25 +23,37 @@ To build foundational digital infrastructure that catalyzes economic opportunity
 
 Payments infrastructure for digital wallets, agent networks, and scalable money movement.
 
+Official Website: https://liperpay.com
+
 #### Netpil
 
 All-in-one healthcare platform unifying pharmacies, lab testing, and doctor consultations.
+
+Official Website: https://netpil.com
 
 #### Kladit
 
 Commerce ecosystem including marketplace, content platforms, and analytics.
 
+Official Website: https://kladit.com
+
 #### Seatprice
 
 Intelligent ticketing and event ecosystem.
+
+Official Website: https://seatpriceapp.com
 
 #### Araivd
 
 A logistics and delivery platform powering last-mile, intercity, and scalable goods movement.
 
+Official Website: https://araivd.com
+
 #### Qonectr
 
 A public transport and mobility platform streamlining commuter movement through digital systems.
+
+Official Website: https://qonectr.com
 
 
 ## Engineering Approach
@@ -77,6 +89,7 @@ NXTGI adheres to best-in-class practices for:
 Connect With Us
 
 Official Website: https://nxtgi.com
+
 GitHub: https://github.com/nxtgi
 
 Building digital infrastructure for a better tomorrow.
