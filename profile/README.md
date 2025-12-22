@@ -7,9 +7,13 @@ NXTGI (Next Generation Innovations) is a technology company building world-class
 NXTGI is an ecosystem of interoperable technology platforms designed to solve real-world challenges at scale. We believe foundational digital infrastructure should be open, resilient, and future-ready. Our products span mission-critical domains including financial systems, healthcare access, marketplace solutions, logistics networks, and transportation services.
 
 We integrate cutting-edge technology with pragmatic engineering to deliver platforms that are:
+
 	•	Secure and compliant
+	
 	•	High-performance and reliable
+	
 	•	API-driven and extensible
+	
 	•	Designed for global competitiveness
 
 ## Our Vision
@@ -80,9 +84,13 @@ We design systems for real-world scale and reliability:
 ## Governance & Standards
 
 NXTGI adheres to best-in-class practices for:
+
 	•	Software security and compliance
+	
 	•	Architecture and observability
+	
 	•	Documentation and developer onboarding
+	
 	•	Scalable deployment workflows
 
 
