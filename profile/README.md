@@ -48,13 +48,21 @@ A public transport and mobility platform streamlining commuter movement through 
 
 We design systems for real-world scale and reliability:
 
-	•	Infrastructure-first architecture Built with modularity, observability, and resilience as core tenets.
+	•	Infrastructure-first architecture 
 	
-	•	API-first and developer-friendly Every platform exposes clear interfaces for extensibility and ecosystem growth.
+	Built with modularity, observability, and resilience as core tenets.
+	
+	•	API-first and developer-friendly 
+	
+	Every platform exposes clear interfaces for extensibility and ecosystem growth.
 
-	•	Compliance and security by design Privacy, regulatory alignment, and trust are embedded into our systems.
+	•	Compliance and security by design 
+	
+	Privacy, regulatory alignment, and trust are embedded into our systems.
 
-	•	Open innovation Wherever possible, we leverage open standards, contribute to open ecosystems, and enable community collaboration.
+	•	Open innovation 
+	
+	Wherever possible, we leverage open standards, contribute to open ecosystems, and enable community collaboration.
 
 
 ## Governance & Standards
