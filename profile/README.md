@@ -1,4 +1,4 @@
-# NXTGI | Next Generation Innovations
+# NXTGI - Next Generation Innovations
 
 NXTGI (Next Generation Innovations) is a technology company building world-class digital infrastructure that powers transformative platforms across payments, healthcare, commerce, logistics, and mobility. Our mission is to enable secure, scalable, and accessible digital services that empower individuals, businesses, and communities across Africa and 
 
