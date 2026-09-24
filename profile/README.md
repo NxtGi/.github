@@ -47,6 +47,11 @@ Intelligent ticketing and event ecosystem.
 
 Official Website: https://seatpriceapp.com
 
+#### MarketPro
+
+A modern e-commerce marketplace built for trusted, seamless, and beautifully simple shopping.
+Official Website: https://marketprostore.com
+
 #### Araivd
 
 A logistics and delivery platform powering last-mile, intercity, and scalable goods movement.
