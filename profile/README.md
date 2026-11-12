@@ -59,12 +59,6 @@ A logistics and delivery platform powering last-mile, intercity, and scalable go
 
 Official Website: https://araivd.com
 
-#### Qonectr
-
-A public transport and mobility platform streamlining commuter movement through digital systems.
-
-Official Website: https://qonectr.com
-
 
 ## Engineering Approach
 
